@@ -27,6 +27,7 @@ This commands includes
 <BR>
 
 ## Output:
+```
 Microsoft Windows [Version 10.0.26200.9711]
 (c) Microsoft Corporation. All rights reserved.
 
@@ -280,6 +281,7 @@ Non-authoritative answer:
 Name:    google.com
 Addresses:  2404:6800:4007:834::200e
           142.251.43.46
+```
 
 ## Result
 Thus Execution of Network commands Performed 
